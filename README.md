@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kroni89
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and Astro
 
 <!---
 kroni89/kroni89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
